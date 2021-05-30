@@ -24,11 +24,10 @@ namespace DashApplication
     }
   }
 }
-```
-```
-1>------ Build started: Project: ZIPCrackler, Configuration: Release Any CPU ------
-1>  ZIPCrackler -> F:\Programming\Skidware\ZIPCrackler\app\ZIPCrackler.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+1>----------------------------------------------------------------------------------
+1>------ Build started: Project: ZIPCrackler, Configuration: Release Any CPU -------
+1>----- ZIPCrackler -> F:\Programming\Skidware\ZIPCrackler\app\ZIPCrackler.exe -----
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ===================
 1> Runtime-Output:
 ```
 > I am Dashie and I love to code.  
