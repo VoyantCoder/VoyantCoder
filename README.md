@@ -24,9 +24,11 @@ namespace DashApplication
     }
   }
 }
+```
+```
 1>----------------------------------------------------------------------------------
-1>------ Build started: Project: ZIPCrackler, Configuration: Release Any CPU -------
-1>----- ZIPCrackler -> F:\Programming\Skidware\ZIPCrackler\app\ZIPCrackler.exe -----
+1>------ Build started: Project: WelcomeApp, Configuration: Release Any CPU -------
+1>----- WelcomeApp -> F:\Programming\Welcome\WelcomeApp\app\WelcomeApp.exe -----
 ========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ===================
 1> Runtime-Output:
 ```
@@ -36,4 +38,7 @@ namespace DashApplication
 > I also have my contact information present more nicely on there, but, if you are here just for my repositories, what are you waiting for?  Do not let me hold you back, live like you have never done before.  I love you all.  Peace out.
 > 
 > -Dashie
+```
+The program '[0x1F90] WelcomeApp.exe: Program Trace' has exited with code 0 (0x0).
+The program '[0x1F90] WelcomeApp.exe' has exited with code -1 (0xffffffff).
 ```
