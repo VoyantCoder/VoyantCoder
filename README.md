@@ -1,21 +1,38 @@
->Hey there, I am Dashie and I love to code and write books.  You can find a lot of my projects on here publicly.  My repositories contain multiple folders which all lead to separate >project their source codes.  Even some old source codes can be found.
-
->For those who wish to reach out to me, you can always reach out to me at KvinneKraft@protonmail.com.  Besides that email, I also have a website which can lead you to certain projects on here with a bit more context and a lot more than just my Github.  My website can be found ![here](https://pugpawz.com) if you are interested.
+### Hey there, welcome to my GitHub!
 ```cs
 //ILove.cs
-using static System.Console;
+using System.Windows.Forms;
 
-namespace ILove
+namespace DashApplication
 {
+  public class DashApp
+  {
+    public DashApp()
+    {
+      Console.WriteLine($"{WelcomeMessage}");
+    }
+  }
+
   static class Program
   {
     static void Main()
     {
-      for (int k; ;k+=1)
+      using (var app = new DashApp())
       {
-        WriteLine($"Hey, I hug a caterpillar x{k}!");
+        Application.Run(app);
       }
     }
   }
 }
+```
+```
+1>------ Build started: Project: ZIPCrackler, Configuration: Release Any CPU ------
+1>  ZIPCrackler -> F:\Programming\Skidware\ZIPCrackler\app\ZIPCrackler.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+1> Runtime-Output:
+I am Dashie and I love to code.  I have a ton of hobbies, one of them is programming, another one of my many hobbies is writing books.  You can find any public project related to the last two named categories in here.  If you prefer more context because of the not-user-friendly organization of folders and what not; then I would recommend going to my website PugPawz over ![here](https://pugpawz.com) if you are interested.  
+
+I also have my contact information present more nicely on there, but, if you are here just for my repositories, what are you waiting for?  Do not let me hold you back, live like you have never done before.  I love you all.  Peace out.
+
+-Dashie
 ```
