@@ -1,26 +1,16 @@
 ## WelcomeApp.exe
 ```cs
 //WelcomeApp.cs
-using System.Windows.Forms;
+using static System.Console;
+using System;
 
 namespace DashApplication
 {
-  public class DashApp
-  {
-    public DashApp()
-    {
-      Console.WriteLine($"{WelcomeMessage}");
-    }
-  }
-
   static class Program
   {
     static void Main()
     {
-      using (var app = new DashApp())
-      {
-        Application.Run(app);
-      }
+		WriteLine($"{WelcomeMessage}");
     }
   }
 }
