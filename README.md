@@ -10,7 +10,7 @@ namespace DashApplication
   {
     static void Main()
     {
-		  WriteLine($"{WelcomeMessage}");
+      WriteLine($"{WelcomeMessage}");
     }
   }
 }
