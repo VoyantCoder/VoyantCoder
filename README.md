@@ -1,6 +1,6 @@
-## Hey there, I am Dashie and I am quite obsessed with the freedom of programming, on this platform I try to express my will to seek for which has yet to be found, in terms of source code.  
-## I see my life like an application consisting of many classes.  Or perhaps more so an operating system which can run the application I wish to write.  Not just one application nor just one theme, but as many as my allocatable and accumulative capacity allows.
-## The freedom of consciousness.
+*Hey there, I am Dashie and I am quite obsessed with the freedom of programming, on this platform I try to express my will to seek for which has yet to be found, in terms of source code.*\  
+*I see my life like an application consisting of many classes.  Or perhaps more so an operating system which can run the application I wish to write.  Not just one application nor just one theme, but as many as my allocatable and accumulative capacity allows.*\
+*The freedom of consciousness.*\
 > 
 > Programming allows you to be as free as you are willing to let yourself be.  This is exactly why I have been programming for over 10 years now.  I started with pen and paper and now, here I am with the latest tech available as of now.  I am a self taught programmer, but programming is one of my many aspects.  You know, you can program yourself.  You can integrate habits into your daily life by executing certain lines of code on your system.  Metaphorically speaking that is.
 > 
