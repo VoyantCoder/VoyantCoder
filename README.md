@@ -1,32 +1,13 @@
-## WelcomeApp.exe
-```cs
-//WelcomeApp.cs
-using System;
-
-namespace DashApplication
-{
-  static class Program
-  {
-    static void Main() => 
-      Console.WriteLine($"{WelcomeMessage}");
-  }
-}
-```
-```
-1>-----------------------------------------------------------------------------------
-1>------- Build started: Project: WelcomeApp, Configuration: Release Any CPU --------
-1>------- WelcomeApp -> F:\Programming\Welcome\WelcomeApp\app\WelcomeApp.exe --------
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ====================
-1> Runtime-Output:
-``` 
-> I am Dashie and I love to code, but that is not all, I also love to write, read and overall live as fully as I can.  Therefore do I meditate everyday and simply work on myself, because I am myself as myself by myself.  That is how I was summoned into this place and that is how I will leave it, hence the mentality.
+# I am Dashie!
+## 
+## Hey there, I am quite obsessed with the freedom of programming, on this platform I try to express this will to seek for which has yet to be found, in terms of source code.  I see my life like an application, like a game I write.  Or more so, an operating system which can run the games I write.  Not just one game, not just one theme, but as many as my allocatable and accumulative capacity allows.
+##
+> Programming allows you to be as free as you are willing to let yourself be.  This is exactly why I have been programming for over 10 years now.  I started with pen and paper and now, here I am with the latest tech available as of now.  I am a self taught programmer, but programming is one of my many aspects.  You know, you can program yourself.  You can integrate habits into your daily life by executing certain lines of code on your system.  Metaphorically speaking that is.
 > 
-> Among these repositories you will be able to find work I have put out.  Actual projects that I sat down for and smaller concepts I worked on through-out my programming journey.  Though my way of layout when it comes down to repositories is not approved by a ton of people, I do not really care.  It is my repository and therefore it should hold a part of me, if it were to be formed according to another their idea of 'proper' then it would be more so their repository.  
+> To know your system is to imply you understand the capabilities of your system.  Whether it is a custom build or not does not matter, what matters is how you are going to make use of it.  This is why programming is perfect to me, it allows you to draw the lines you wish to follow.  Code is a way of life, in the sense that the structural logicistic mechanisms within programming are applicable to real life.
 > 
-> Regardless, feel free to surf around the repositories I present to you, I have organized them in the sense of a folder structure since that is literally the way they are present on my local system.  If you have any questions, suggestions or criticism -you can always reach out to me at KvinneKraft@protonmail.com.
+> The updating of implementations through self reflection, the reintegration of functionality through self control and the constant optimizations through acceptance and awareness of such process, are just a few of the many examples I could give.  My key fits on my door and another should not expect mine to fit on theirs.
 > 
-> I hope you have a nice day.  Bye!  -Dashie
-```
-The program '[0x1F90] WelcomeApp.exe: Program Trace' has exited with code 0 (0x0).
-The program '[0x1F90] WelcomeApp.exe' has exited with code -1 (0xffffffff).
-```
+> But enough of that.  You are here for the code, the code you shall receive!  I have a few repositories, of these few repositories there are three of which are being worked on simultaneously by me.  If you want to know what I have worked on in the past (personal projects), then you may want to check out the Software repository.  If instead you are out for nothing necessarily, then I would recommend checking out the DashFramework repository.  It contains all of the latest classes I use to build what I build.  It is basically (-as the name suggests) a framework of extension.
+>
+> If you have any suggestions and or criticism of any kind, then feel free to contact me at KvinneKraft(at)protonmail(dot)com or let me know by creating a new issue.  I want to learn.  I am open for anything as long as it is relevant.
