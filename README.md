@@ -1,7 +1,14 @@
-**Hey there, I am Dashie and I am quite obsessed with the freedom of programming, on this platform I try to express my will to seek for which has yet to be found, in terms of source code.**</br>
-**I see my life like an application consisting of many classes.  Or perhaps more so an operating system which can run the application I wish to write.  Not just one application nor just one theme, but as many as my allocatable and accumulative capacity allows.**</br>
-**The freedom of consciousness.**</br>
 > 
+**Hey there, I am Dashie and I am quite obsessed with the freedom of programming, on this platform I try to express my will to seek for which has yet to be found, in terms of source code.**
+</br>
+</br>
+**I see my life like an application consisting of many classes.  Or perhaps more so an operating system which can run the application I wish to write.  Not just one application nor just one theme, but as many as my allocatable and accumulative capacity allows.**
+</br>
+</br>
+**The freedom of consciousness.**
+</br>
+</br>
+>
 > Programming allows you to be as free as you are willing to let yourself be.  This is exactly why I have been programming for over 10 years now.  I started with pen and paper and now, here I am with the latest tech available as of now.  I am a self taught programmer, but programming is one of my many aspects.  You know, you can program yourself.  You can integrate habits into your daily life by executing certain lines of code on your system.  Metaphorically speaking that is.
 > 
 > To know your system is to imply you understand the capabilities of your system.  Whether it is a custom build or not does not matter, what matters is how you are going to make use of it.  This is why programming is perfect to me, it allows you to draw the lines you wish to follow.  Code is a way of life, in the sense that the structural logicistic mechanisms within programming are applicable to real life.
