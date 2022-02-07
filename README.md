@@ -7,11 +7,11 @@
         </i>
     </b>
 </h3>
-    <p style="font-size: 24px">
+    <h2>
         <b> 
             Hey there, I am Dashie 👋
         </b>
-    <p>
+    </h2>
 <h4>
     I love to code anything that comes up within me. The possibilities are endless in the world of programming. The only limitation a programmer will come across is their inability to express their creativity in terms of programmatic terminology. Intriguiging it is. 
     </br></br>
