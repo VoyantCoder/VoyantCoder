@@ -74,7 +74,7 @@
     <img src="img/instagram.png" width=32 height=32 />
 </a>
 <a style="padding: 10px" href="https://www.youtube.com/channel/UCODilr1GUANP7i1TvEkjsAQ">
-    <img src="img/youtube.svg" width=32 height=32 />
+    <img src="img/youtube.png" width=32 height=32 />
 </a>
 <a href="img/discord.png">
     <img src="img/discord.png" width=32 height=32 />
