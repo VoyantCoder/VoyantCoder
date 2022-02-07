@@ -1,12 +1,12 @@
 <body>
     <img src="img/banner.png" />
-<h3>
+<h4>
     <b>
         <i>
         "The essence of life is the experience of this what we ought to be life, itself. The answer is you." -Dashie
         </i>
     </b>
-</h3>
+</h4>
     <h2>
         <b> 
             Hey there, I am Dashie 👋
