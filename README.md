@@ -12,11 +12,6 @@
             Hey there, I am Dashie 👋
         </b>
     </h1>
-<h2>
-    <b> 
-        Introduction 💭 
-    </b>
-</h2>
     <h4>
         I love to code anything that comes up within me. The possibilities are endless in the world of programming. The only limitation a programmer will come across is their inability to express their creativity in terms of programmatic terminology. Intriguiging it is. 
         </br></br>
