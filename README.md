@@ -1,4 +1,4 @@
-<body align="middle">
+<body>
     <img src="img/banner.png" />
 <h3>
     <b>
