@@ -1,20 +1,95 @@
-> 
-**Hey there, I am Dashie and I am quite obsessed with the freedom of programming, on this platform I try to express my will to seek for which has yet to be found, in terms of source code.**
+<body style="background-color: #42192F"><center>
+<img src="img/banner.png" />
+    </br></br>
+<h2 style="font-size: 30px">
+    <b> 
+        Hey there, I am Dashie 👋
+    </b>
+</h2>
+    <h3>
+        <b>
+            <i>
+            "The essence of life is the experience of this what we ought to be life, itself. The answer is you." -Dashie
+            </i>
+        </b>
+    </h3>
 </br>
+<h2>
+    <b> 
+        Introduction 💭 
+    </b>
+</h2>
+    <h3>
+        I love to code anything that comes up within me. The possibilities are endless in the world of programming. The only limitation a programmer will come across is their inability to express their creativity in terms of programmatic terminology. Intriguiging it is. 
+        </br></br>
+        Though programming is one of my strongest aspects, it is not the only one. To encapsulate my daily interests into a few words; I am forever learning, I study every single day just because I like to. The ability to project your subjective idea onto the objective reality is one of my main focuses. Programming in that sense allows you to do so. Hence my obsession. 
+        </br></br>
+        I have been programming on a systematic level since 2013. I have obtained quite a lot of experience over the years. I just never felt like sharing this experience, until now. I can now see the use of it. The present only exists because of the past. Therefore I embrace both. It is the reason for my success.
+    </h3>
 </br>
-**I see my life like an application consisting of many classes.  Or perhaps more so an operating system which can run the application I wish to write.  Not just one application nor just one theme, but as many as my allocatable and accumulative capacity allows.**
+<h2>
+    <b>
+        Languages of Familiarity 🍄
+    </b>
+</h2>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
 </br>
+<h2>
+    <b>
+        IDEs of Familiarity 💻
+    </b>
+</h2>
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+
 </br>
-**The freedom of consciousness.**
+<h2>
+    <b> 
+        My Stats 📊 
+    </b>
+</h2>
+
+[![language](https://github-readme-stats.vercel.app/api/top-langs/?username=VoyantCoder&count_private=true)](https://github.com/Voyantcoder)
+
+[![stats](https://github-readme-stats.vercel.app/api?username=VoyantCoder&count_private=true)](https://github.com/VoyantCoder)
+
 </br>
-</br>
->
-> Programming allows you to be as free as you are willing to let yourself be.  This is exactly why I have been programming for over 10 years now.  I started with pen and paper and now, here I am with the latest tech available as of now.  I am a self taught programmer, but programming is one of my many aspects.  You know, you can program yourself.  You can integrate habits into your daily life by executing certain lines of code on your system.  Metaphorically speaking that is.
-> 
-> To know your system is to imply you understand the capabilities of your system.  Whether it is a custom build or not does not matter, what matters is how you are going to make use of it.  This is why programming is perfect to me, it allows you to draw the lines you wish to follow.  Code is a way of life, in the sense that the structural logicistic mechanisms within programming are applicable to real life.
-> 
-> The updating of implementations through self reflection, the reintegration of functionality through self control and the constant optimizations through acceptance and awareness of such process, are just a few of the many examples I could give.  My key fits on my door and another should not expect mine to fit on theirs.
-> 
-> But enough of that.  You are here for the code, the code you shall receive!  I have a few repositories, of these few repositories there are three of which are being worked on simultaneously by me.  If you want to know what I have worked on in the past (personal projects), then you may want to check out the Software repository.  If instead you are out for nothing necessarily, then I would recommend checking out the DashFramework repository.  It contains all of the latest classes I use to build what I build.  It is basically (-as the name suggests) a framework of extension.
->
-> If you have any suggestions and or criticism of any kind, then feel free to contact me at KvinneKraft(at)protonmail(dot)com or let me know by creating a new issue.  I want to learn.  I am open for anything as long as it is relevant.
+<h2>
+    <b> 
+        Ways of Reach 📝 
+    </b>
+</h2>
+    <h4>
+        <a href="https://pugpawz.com/">
+            <img src="img/pugpawz.png" width=24 />
+        </a>
+        <a style="padding: 10px" href="https://www.spigotmc.org/resources/authors/kvinnekraft.864628/">
+            <img src="img/spigotmc.png" width=24 />
+        </a>
+        <a href="https://instagram.com/Lunarilicious">
+            <img src="img/instagram.png" width=24 />
+        </a>
+        <a style="padding: 10px" href="https://www.youtube.com/channel/UCODilr1GUANP7i1TvEkjsAQ">
+            <img src="img/youtube.svg" width=24 />
+        </a>
+        <a href="img/discord.png">
+            <img src="img/discord.png" width=24 />
+        </a>
+    </h4>
+
+</center></body>
