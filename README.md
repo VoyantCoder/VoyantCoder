@@ -1,6 +1,5 @@
 <body style="background-color: #42192F"><center>
 <img src="img/banner.png" />
-    </br></br>
 <h2 style="font-size: 30px">
     <b> 
         Hey there, I am Dashie 👋
@@ -13,7 +12,6 @@
             </i>
         </b>
     </h3>
-</br>
 <h2>
     <b> 
         Introduction 💭 
@@ -26,7 +24,6 @@
         </br></br>
         I have been programming on a systematic level since 2013. I have obtained quite a lot of experience over the years. I just never felt like sharing this experience, until now. I can now see the use of it. The present only exists because of the past. Therefore I embrace both. It is the reason for my success.
     </h3>
-</br>
 <h2>
     <b>
         Languages of Familiarity 🍄
@@ -45,7 +42,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-</br>
 <h2>
     <b>
         IDEs of Familiarity 💻
@@ -57,7 +53,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
-</br>
 <h2>
     <b> 
         My Stats 📊 
@@ -68,7 +63,6 @@
 
 [![stats](https://github-readme-stats.vercel.app/api?username=VoyantCoder&count_private=true)](https://github.com/VoyantCoder)
 
-</br>
 <h2>
     <b> 
         Ways of Reach 📝 
@@ -91,5 +85,4 @@
             <img src="img/discord.png" width=24 />
         </a>
     </h4>
-
 </center></body>
