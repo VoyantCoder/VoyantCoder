@@ -1,4 +1,4 @@
-<body style="background-color: #42192F"><center>
+<body align="middle">
 <img src="img/banner.png" />
 <h2 style="font-size: 30px">
     <b> 
@@ -85,4 +85,4 @@
             <img src="img/discord.png" width=24 />
         </a>
     </h4>
-</center></body>
+</body>
