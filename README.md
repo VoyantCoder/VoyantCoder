@@ -1,29 +1,29 @@
 <body align="middle">
-<img src="img/banner.png" />
-<h1>
-    <b> 
-        Hey there, I am Dashie 👋
+    <img src="img/banner.png" />
+<h3>
+    <b>
+        <i>
+        "The essence of life is the experience of this what we ought to be life, itself. The answer is you." -Dashie
+        </i>
     </b>
-</h1>
-    <h3>
-        <b>
-            <i>
-            "The essence of life is the experience of this what we ought to be life, itself. The answer is you." -Dashie
-            </i>
+</h3>
+    <h1>
+        <b> 
+            Hey there, I am Dashie 👋
         </b>
-    </h3>
+    </h1>
 <h2>
     <b> 
         Introduction 💭 
     </b>
 </h2>
-    <h3>
+    <h4>
         I love to code anything that comes up within me. The possibilities are endless in the world of programming. The only limitation a programmer will come across is their inability to express their creativity in terms of programmatic terminology. Intriguiging it is. 
         </br></br>
         Though programming is one of my strongest aspects, it is not the only one. To encapsulate my daily interests into a few words; I am forever learning, I study every single day just because I like to. The ability to project your subjective idea onto the objective reality is one of my main focuses. Programming in that sense allows you to do so. Hence my obsession. 
         </br></br>
         I have been programming on a systematic level since 2013. I have obtained quite a lot of experience over the years. I just never felt like sharing this experience, until now. I can now see the use of it. The present only exists because of the past. Therefore I embrace both. It is the reason for my success.
-    </h3>
+    </h4>
 <h2>
     <b>
         Languages of Familiarity 🍄
