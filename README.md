@@ -65,19 +65,19 @@
 </h3>
     <h4>
         <a href="https://pugpawz.com/">
-            <img src="img/pugpawz.png" width=24 />
+            <img src="img/pugpawz.ico" width=32 height=32 />
         </a>
         <a style="padding: 10px" href="https://www.spigotmc.org/resources/authors/kvinnekraft.864628/">
-            <img src="img/spigotmc.png" width=24 />
+            <img src="img/spigotmc.png" width=32 height=32 />
         </a>
         <a href="https://instagram.com/Lunarilicious">
-            <img src="img/instagram.png" width=24 />
+            <img src="img/instagram.png" width=32 height=32 />
         </a>
         <a style="padding: 10px" href="https://www.youtube.com/channel/UCODilr1GUANP7i1TvEkjsAQ">
-            <img src="img/youtube.svg" width=24 />
+            <img src="img/youtube.svg" width=32 height=32 />
         </a>
         <a href="img/discord.png">
-            <img src="img/discord.png" width=24 />
+            <img src="img/discord.png" width=32 height=32 />
         </a>
     </h4>
 </body>
