@@ -1,10 +1,10 @@
 <body align="middle">
 <img src="img/banner.png" />
-<h2 style="font-size: 30px">
+<h1>
     <b> 
         Hey there, I am Dashie 👋
     </b>
-</h2>
+</h1>
     <h3>
         <b>
             <i>
