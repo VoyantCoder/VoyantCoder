@@ -19,11 +19,11 @@
         </br></br>
         I have been programming on a systematic level since 2013. I have obtained quite a lot of experience over the years. I just never felt like sharing this experience, until now. I can now see the use of it. The present only exists because of the past. Therefore I embrace both. It is the reason for my success.
     </h4>
-<h2>
+<h3>
     <b>
         Languages of Familiarity 🍄
     </b>
-</h2>
+</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -37,32 +37,32 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-<h2>
+<h3>
     <b>
         IDEs of Familiarity 💻
     </b>
-</h2>
+</h3>
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
-<h2>
+<h3>
     <b> 
         My Stats 📊 
     </b>
-</h2>
+</h3>
 
 [![language](https://github-readme-stats.vercel.app/api/top-langs/?username=VoyantCoder&count_private=true)](https://github.com/Voyantcoder)
 
 [![stats](https://github-readme-stats.vercel.app/api?username=VoyantCoder&count_private=true)](https://github.com/VoyantCoder)
 
-<h2>
+<h3>
     <b> 
         Ways of Reach 📝 
     </b>
-</h2>
+</h3>
     <h4>
         <a href="https://pugpawz.com/">
             <img src="img/pugpawz.png" width=24 />
