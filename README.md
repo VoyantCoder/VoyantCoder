@@ -65,5 +65,7 @@
 </h3>
 <a href="https://pugpawz.com/">
     <img src="https://pugpawz.com/media/icon.ico" width="128" height="128" alt="My Website" />
-    <img src="img/instagram.png" width="128" height="128"/>
+</a>
+<a href="https://instagram.com/Lunarilicious">
+    <img src="img/instagram.png" width="128" height="128" alt="My Instagram" />
 </a>
