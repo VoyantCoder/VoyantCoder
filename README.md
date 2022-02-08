@@ -20,7 +20,7 @@
     </br></br>
     I have been programming on a systematic level since 2013. I have obtained quite a lot of experience over the years. I just never felt like sharing this experience, until now. I can now see the use of it. The present only exists because of the past. Therefore I embrace both. It is the reason for my success.
 </h4>
-<h3>
+<h3 id="ides">
     <b>
         Languages of Familiarity 🍄
     </b>
@@ -42,16 +42,16 @@
 
 </a>
 
-<h3>
+<h3 id="stats">
     <b>
         IDEs of Familiarity 💻
     </b>
 </h3>
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](#ides)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#ides)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#ides)
+[![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](#ides)
 
 <h3>
     <b> 
@@ -59,8 +59,8 @@
     </b>
 </h3>
 
-[![stats](https://github-readme-stats.vercel.app/api?username=VoyantCoder&count_private=true)](https://github.com/VoyantCoder)
-[![language](https://github-readme-stats.vercel.app/api/top-langs/?username=VoyantCoder&count_private=true)](https://github.com/Voyantcoder)
+[![stats](https://github-readme-stats.vercel.app/api?username=VoyantCoder&count_private=true)](#stats)
+[![language](https://github-readme-stats.vercel.app/api/top-langs/?username=VoyantCoder&count_private=true)](#stats)
 
 <h3>
     <b> 
