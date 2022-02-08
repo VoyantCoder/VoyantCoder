@@ -65,5 +65,5 @@
 </h3>
 <a href="https://pugpawz.com/">
     <img src="https://pugpawz.com/media/icon.ico" width="128" height="128" alt="My Website" />
-    <img src="" width="128" height="128"/>
+    <img src="img/instagram.png" width="128" height="128"/>
 </a>
