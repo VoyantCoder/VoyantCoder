@@ -55,9 +55,8 @@
     </b>
 </h3>
 
-[![language](https://github-readme-stats.vercel.app/api/top-langs/?username=VoyantCoder&count_private=true)](https://github.com/Voyantcoder)
-
 [![stats](https://github-readme-stats.vercel.app/api?username=VoyantCoder&count_private=true)](https://github.com/VoyantCoder)
+[![language](https://github-readme-stats.vercel.app/api/top-langs/?username=VoyantCoder&count_private=true)](https://github.com/Voyantcoder)
 
 <h3>
     <b> 
@@ -65,17 +64,6 @@
     </b>
 </h3>
 <a href="https://pugpawz.com/">
-    <img src="img/pugpawz.ico" width=32 height=32 />
-</a>
-<a style="padding: 10px" href="https://www.spigotmc.org/resources/authors/kvinnekraft.864628/">
-    <img src="img/spigotmc.png" width=32 height=32 />
-</a>
-<a href="https://instagram.com/Lunarilicious">
-    <img src="img/instagram.png" width=32 height=32 />
-</a>
-<a style="padding: 10px" href="https://www.youtube.com/channel/UCODilr1GUANP7i1TvEkjsAQ">
-    <img src="img/youtube.png" width=32 height=32 />
-</a>
-<a href="img/discord.png">
-    <img src="img/discord.png" width=32 height=32 />
+    <img src="https://pugpawz.com/media/icon.ico" width="128" height="128" alt="My Website" />
+    <img src="" width="128" height="128"/>
 </a>
