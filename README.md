@@ -13,14 +13,14 @@
         Hey there, I am Dashie 👋
     </b>
 </h2>
-<h4>
+<h4 id="languages">
     I love to code anything that comes up within me. The possibilities are endless in the world of programming. The only limitation a programmer will come across is their inability to express their creativity in terms of programmatic terminology. Intriguiging it is. 
     </br></br>
     Though programming is one of my strongest aspects, it is not the only one. To encapsulate my daily interests into a few words; I am forever learning, I study every single day just because I like to. The ability to project your subjective idea onto the objective reality is one of my main focuses. Programming in that sense allows you to do so. Hence my obsession. 
     </br></br>
     I have been programming on a systematic level since 2013. I have obtained quite a lot of experience over the years. I just never felt like sharing this experience, until now. I can now see the use of it. The present only exists because of the past. Therefore I embrace both. It is the reason for my success.
 </h4>
-<h3 id="languages">
+<h3>
     <b>
         Languages of Familiarity 🍄
     </b>
@@ -42,33 +42,25 @@
 
 </a>
 
-<h3 id="ides">
+<h3>
     <b>
         IDEs of Familiarity 💻
     </b>
 </h3>
-
-<a href="#ides">
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
-</a>
-
-<h3 id="stats">
+<h3>
     <b> 
         My Stats 📊 
     </b>
 </h3>
 
-<a href="#stats">
-
 [![stats](https://github-readme-stats.vercel.app/api?username=VoyantCoder&count_private=true)](https://github.com/VoyantCoder)
 [![language](https://github-readme-stats.vercel.app/api/top-langs/?username=VoyantCoder&count_private=true)](https://github.com/Voyantcoder)
-
-</a>
 
 <h3>
     <b> 
