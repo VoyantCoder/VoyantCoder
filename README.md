@@ -13,36 +13,37 @@
         Hey there, I am Dashie 👋
     </b>
 </h2>
-<h4 id="languages">
+<h4>
     I love to code anything that comes up within me. The possibilities are endless in the world of programming. The only limitation a programmer will come across is their inability to express their creativity in terms of programmatic terminology. Intriguiging it is. 
     </br></br>
     Though programming is one of my strongest aspects, it is not the only one. To encapsulate my daily interests into a few words; I am forever learning, I study every single day just because I like to. The ability to project your subjective idea onto the objective reality is one of my main focuses. Programming in that sense allows you to do so. Hence my obsession. 
     </br></br>
     I have been programming on a systematic level since 2013. I have obtained quite a lot of experience over the years. I just never felt like sharing this experience, until now. I can now see the use of it. The present only exists because of the past. Therefore I embrace both. It is the reason for my success.
 </h4>
-<h3 id="ides">
+<h3>
     <b>
         Languages of Familiarity 🍄
     </b>
 </h3>
 
-<a href="#languages">
+<a>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 </a>
 
-<h3 id="stats">
+<h3>
     <b>
         IDEs of Familiarity 💻
     </b>
@@ -52,6 +53,18 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#ides)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#ides)
 [![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](#ides)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#ides)
+
+<h3>
+    <b>
+        Some Known Facts 💞
+    </b>
+</h3>
+
+![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![Swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)
+![Science](http://ForTheBadge.com/images/badges/built-with-science.svg)
+![Developer](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 
 <h3>
     <b> 
@@ -59,17 +72,33 @@
     </b>
 </h3>
 
-[![stats](https://github-readme-stats.vercel.app/api?username=VoyantCoder&count_private=true)](#stats)
-[![language](https://github-readme-stats.vercel.app/api/top-langs/?username=VoyantCoder&count_private=true)](#stats)
+![stats](https://github-readme-stats.vercel.app/api?username=VoyantCoder&theme=blue-green)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 <h3>
     <b> 
         Ways of Reach 📝 
     </b>
 </h3>
+
 <a href="https://pugpawz.com/">
-    <img src="https://pugpawz.com/media/icon.ico" width="128" height="128" alt="My Website" />
-</a>
-<a href="https://instagram.com/Lunarilicious">
-    <img src="img/instagram.png" width="128" height="128" alt="My Instagram" />
+
+![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
+
+</a><a alt="KvinneKraft@protonmail.com">
+
+![KvinneKraft@protonmail.com](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+
+</a><a alt="Clair ☽✮☾ Voyant#7147">
+
+![Clair ☽✮☾ Voyant#7147](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+</a><a href="https://instagram.com/Lunarilicious">
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+</a><a href="https://www.youtube.com/channel/UCODilr1GUANP7i1TvEkjsAQ">
+
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
 </a>
