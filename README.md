@@ -73,7 +73,7 @@
 </h3>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=VoyantCoder&theme=blue-green)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoyantCoder&theme=blue-green)
 
 <h3>
     <b> 
