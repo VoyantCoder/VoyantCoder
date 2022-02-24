@@ -81,24 +81,8 @@
     </b>
 </h3>
 
-<a href="https://pugpawz.com/">
-
-![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
-
-</a><a alt="KvinneKraft@protonmail.com">
-
-![KvinneKraft@protonmail.com](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-
-</a><a alt="Clair ☽✮☾ Voyant#7147">
-
-![Clair ☽✮☾ Voyant#7147](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-
-</a><a href="https://instagram.com/Lunarilicious">
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-</a><a href="https://www.youtube.com/channel/UCODilr1GUANP7i1TvEkjsAQ">
-
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
-</a>
+[![Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://pugpawz.com)
+[![KvinneKraft@protonmail.com](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](KvinneKraft@protonmail.com)
+[![Clair ☽✮☾ Voyant#7147](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Clair ☽✮☾ Voyant#7147)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lunarilicious)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCODilr1GUANP7i1TvEkjsAQ)
